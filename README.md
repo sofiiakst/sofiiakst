@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Experienced in translating real-world business needs into reliable, user- focused
+systems that improve efficiency.
+- Passionate about creating agentic AI intelligent, and goal-driven systems that help people automate their daily work.
+
+## Tech stack: 
+- NEXT.js, REACT.js , typescript, python , Backend software development
+## Currently working on:
+- Backend software development/engineering
+- Agentic AI software systems
