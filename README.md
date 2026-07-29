@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Sofia, a software developer and current student in Computer Science/ Department of Informatics
 - Experienced in translating real-world business needs into reliable, user- focused
 systems that improve efficiency.
 - Passionate about creating agentic AI intelligent, and goal-driven systems that help people automate their daily work.
